@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wperp.com/support/\n"
+"POT-Creation-Date: 2017-03-17 09:11-0500\n"
+"PO-Revision-Date: 2017-03-17 10:04-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: erp-attendance.php:194
+msgid ""
+"This shift and related attendance record will be deleted permanently and "
+"can't be undone. Are you sure?"
+msgstr ""
+"Este cambio y registro de asistencia relacionados se eliminará de forma "
+"permanente y no se puede deshacer. ¿Está seguro?"
+
+#: erp-attendance.php:196 erp-attendance.php:326 views/new-attendance.php:2
+msgid "New Attendance"
+msgstr "Nueva asistencia"
+
+#: erp-attendance.php:197
+msgid "Submit Attendance"
+msgstr "Enviar Asistencia"
+
+#: erp-attendance.php:198 erp-attendance.php:327 views/edit-attendance.php:2
+msgid "Edit Attendance"
+msgstr "Editar Asistencia"
+
+#: erp-attendance.php:199 views/edit-attendance.php:59
+#: views/manage-shifts.php:26
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: erp-attendance.php:200 views/import.php:2
+msgid "Import Attendance"
+msgstr "Importar Asistencia"
+
+#: erp-attendance.php:201 views/import.php:30
+msgid "Import"
+msgstr "Importar"
+
+#: erp-attendance.php:204
+msgid "Something went wrong"
+msgstr "Algo salió mal"
+
+#: erp-attendance.php:207
+msgid "Do you want to checkout?"
+msgstr "¿Desea realizar salida?"
+
+#: erp-attendance.php:323 erp-attendance.php:432 erp-attendance.php:452
+#: erp-attendance.php:531 erp-attendance.php:561 views/attendance.php:3
+msgid "Attendance"
+msgstr "Asistencia"
+
+#: erp-attendance.php:324
+msgid "Shifts"
+msgstr "Cambios"
+
+#: erp-attendance.php:325
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: erp-attendance.php:532
+msgid "Reporting on employee attendance"
+msgstr "Los informes sobre la asistencia del empleado"
+
+#: erp-attendance.php:578 erp-attendance.php:622
+msgid "Shift Management"
+msgstr "Gestión de turnos"
+
+#: erp-attendance.php:583
+msgid "Grace Time"
+msgstr "Tiempo de gracia"
+
+#: erp-attendance.php:588
+msgid "Grace Before Checkin"
+msgstr "Gracia antes del Registro"
+
+#: erp-attendance.php:595
+msgid "Grace After Checkin"
+msgstr "Gracia después del registro"
+
+#: erp-attendance.php:602
+msgid "Grace Before Checkout"
+msgstr "Gracia antes de Salir"
+
+#: erp-attendance.php:609
+msgid "Grace After Checkout"
+msgstr "Gracia después de Salida"
+
+#: erp-attendance.php:616
+msgid "Self Attendance"
+msgstr "Auto Asistencia"
+
+#: erp-attendance.php:633
+msgid "Office Starts"
+msgstr "Oficina Inicia"
+
+#: erp-attendance.php:641
+msgid "Office Ends"
+msgstr "Oficina Cierra"
+
+#: includes/class-ajax.php:80
+msgid "In-time"
+msgstr "A tiempo"
+
+#: includes/class-ajax.php:85 views/attendance-reporting.php:283
+#: views/attendance-reporting.php:348 views/tab-employee-single-status.php:246
+#: views/tab-employee-single-status.php:561
+msgid "Late"
+msgstr "Tarde"
+
+#: includes/class-ajax.php:90
+msgid "Absents"
+msgstr "Se ausenta"
+
+#: includes/class-ajax.php:155 views/attendance-reporting.php:206
+msgid "Attendance Report"
+msgstr "Reporte de asistencia"
+
+#: includes/class-ajax.php:156
+msgid ""
+"Shows a detailed report for employee attendance for different departments"
+msgstr ""
+"Muestra un informe detallado de la asistencia del empleado para diferentes "
+"departamentos"
+
+#: includes/class-attendance-single.php:39 includes/class-attendance.php:95
+msgid "No Record Found"
+msgstr "No se ha encontrado ningún registro"
+
+#: includes/class-attendance-single.php:90
+msgid "Emp. ID"
+msgstr "Cédula Empleado"
+
+#: includes/class-attendance-single.php:91 views/edit-attendance.php:24
+#: views/js-templates/attendance-new.php:18 views/manage-shifts.php:85
+#: views/new-attendance.php:24
+msgid "Employee Name"
+msgstr "Nombre del empleado"
+
+#: includes/class-attendance-single.php:92
+msgid "Department"
+msgstr "Departamento"
+
+#: includes/class-attendance-single.php:93 views/edit-attendance.php:28
+#: views/js-templates/attendance-new.php:19 views/new-attendance.php:28
+#: views/tab-employee-single-status.php:481
+msgid "Status"
+msgstr "Estado"
+
+#: includes/class-attendance-single.php:94 includes/class-widgets.php:118
+#: views/edit-attendance.php:29 views/new-attendance.php:29
+#: views/tab-employee-single-status.php:482
+msgid "Checkin"
+msgstr "Entrada"
+
+#: includes/class-attendance-single.php:95 includes/class-widgets.php:119
+#: views/edit-attendance.php:30 views/new-attendance.php:30
+#: views/tab-employee-single-status.php:483
+msgid "Checkout"
+msgstr "Salida"
+
+#: includes/class-attendance-single.php:96
+#: views/tab-employee-single-status.php:251
+msgid "Worktime"
+msgstr "Tiempo de Trabajo"
+
+#: includes/class-attendance-single.php:100 views/edit-attendance.php:26
+#: views/new-attendance.php:26 views/widget-employee-self-service.php:16
+msgid "Shift"
+msgstr "Cambio"
+
+#: includes/class-attendance-single.php:182
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/class-attendance.php:50
+msgid "Filter by Duration"
+msgstr "Filtrar por duración"
+
+#: includes/class-attendance.php:52
+msgid "- Select Duration -"
+msgstr "- Seleccione la duración -"
+
+#: includes/class-attendance.php:63 views/attendance-reporting.php:243
+#: views/tab-employee-single-status.php:434
+msgid "Filter"
+msgstr "Filtrar"
+
+#: includes/class-attendance.php:142 views/attendance-reporting.php:280
+#: views/js-templates/attendance-new.php:2
+#: views/js-templates/attendance-new.php:4
+#: views/tab-employee-single-status.php:475
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/class-attendance.php:143
+msgid "Attended"
+msgstr "Asistieron"
+
+#: includes/class-attendance.php:144 views/attendance-reporting.php:282
+#: views/attendance-reporting.php:357 views/js-templates/attendance-new.php:42
+#: views/js-templates/attendance-new.php:71
+#: views/tab-employee-single-status.php:266
+#: views/tab-employee-single-status.php:541
+msgid "Absent"
+msgstr "Ausente"
+
+#: includes/class-attendance.php:145
+msgid "Presence"
+msgstr "Presente"
+
+#: includes/class-attendance.php:163
+msgid "Edit this item"
+msgstr "Editar este elemento"
+
+#: includes/class-attendance.php:163 views/attendance-single.php:9
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class-attendance.php:209
+msgid "Delete Permanently"
+msgstr "Eliminar permanentemente"
+
+#: includes/class-updates.php:95
+msgid ""
+"<strong>WP ERP Attendance data update is required</strong> &#8211; We need "
+"to update your install to the latest version"
+msgstr ""
+
+#: includes/class-updates.php:96
+msgid "Run the updater"
+msgstr "Ejecutar el actualizador"
+
+#: includes/class-updates.php:101
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/class-widgets.php:37
+msgid "<i class=\"fa fa-pie-chart\"></i> Attendance Status"
+msgstr "<i class=\"fa fa-pie-chart\"></i> Estado de asistencia"
+
+#: includes/class-widgets.php:48
+msgid "<i class=\"fa fa-clock-o\"></i> Attendance Self Service"
+msgstr "<i class=\"fa fa-clock-o\"></i> Asistencia Autoservicio"
+
+#: includes/class-widgets.php:108
+msgid "Filter By"
+msgstr "Filtrar por"
+
+#: includes/class-widgets.php:109 includes/functions-attendance.php:99
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/class-widgets.php:110 includes/functions-attendance.php:100
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: includes/class-widgets.php:111 includes/functions-attendance.php:101
+#: includes/functions-attendance.php:532
+msgid "This Month"
+msgstr "Hoy"
+
+#: includes/class-widgets.php:112 includes/functions-attendance.php:102
+#: includes/functions-attendance.php:533
+msgid "Last Month"
+msgstr "El mes pasado"
+
+#: includes/class-widgets.php:113 includes/functions-attendance.php:103
+#: includes/functions-attendance.php:534
+msgid "This Quarter"
+msgstr "Este trimestre"
+
+#: includes/class-widgets.php:114 includes/functions-attendance.php:105
+#: includes/functions-attendance.php:536
+msgid "This Year"
+msgstr "Este año"
+
+#: includes/class-widgets.php:115
+msgid "Not enough data"
+msgstr "No hay suficientes datos"
+
+#: includes/class-widgets.php:116 views/new-attendance.php:36
+msgid "Loading data"
+msgstr "Carga de datos"
+
+#: includes/class-widgets.php:117
+msgid "No shift is assigned for current time"
+msgstr "Ningún cambio es asignado para la hora actual"
+
+#: includes/class-widgets.php:120
+msgid "Your checkin entry is saved. Thank you for checkin."
+msgstr "La entrada se guardo. Gracias por registrar."
+
+#: includes/class-widgets.php:121
+msgid "Your checkout entry is saved. Thank you."
+msgstr "Su Salida se guardó. Gracias."
+
+#: includes/class-widgets.php:122
+msgid "You must select a shift first!"
+msgstr "Debe seleccionar un cambio primero!"
+
+#: includes/functions-attendance.php:104 includes/functions-attendance.php:535
+msgid "Last Quarter"
+msgstr "Último trimestre"
+
+#: includes/functions-attendance.php:106 includes/functions-attendance.php:537
+msgid "Last Year"
+msgstr "El año pasado"
+
+#: includes/functions-attendance.php:107 includes/functions-attendance.php:538
+msgid "Custom"
+msgstr "Personalizado"
+
+#: includes/functions-attendance.php:873
+msgid "Error occured while checkin, please try again."
+msgstr "Se ha producido un error al registrar, por favor inténtelo de nuevo."
+
+#: includes/functions-attendance.php:885
+msgid "You do not have any entry for checkin. Please checkin first."
+msgstr "No tiene ninguna entrada para el registro. Registre primero."
+
+#: includes/functions-attendance.php:889
+msgid "Could not save your attendance, please try again"
+msgstr "No se pudo guardar su asistencia, por favor inténtelo de nuevo"
+
+#: includes/updates/update-1.1.0.php:48
+msgid "Office Shift"
+msgstr "Cambio de oficina"
+
+#: views/attendance-reporting.php:259 views/attendance-reporting.php:260
+#: views/tab-employee-single-status.php:444
+#: views/tab-employee-single-status.php:445
+msgid "Summary"
+msgstr "Resumen"
+
+#: views/attendance-reporting.php:263
+msgid "Total Days"
+msgstr "Total de días"
+
+#: views/attendance-reporting.php:264
+msgid "Total Work Days"
+msgstr "Días de trabajo totales"
+
+#: views/attendance-reporting.php:265
+msgid "Total Holidays"
+msgstr "El total de vacaciones / festivos"
+
+#: views/attendance-reporting.php:266
+msgid "Average Present"
+msgstr "Promedio presente"
+
+#: views/attendance-reporting.php:267
+msgid "Average Absent"
+msgstr "Promedio ausente"
+
+#: views/attendance-reporting.php:268
+msgid "Average Leave"
+msgstr "Promedio de Licencias / Permisos"
+
+#: views/attendance-reporting.php:269
+msgid "Average Late"
+msgstr "Promedio Tarde"
+
+#: views/attendance-reporting.php:270
+msgid "Average Early Leave"
+msgstr "Promedio salir temprano"
+
+#: views/attendance-reporting.php:281 views/attendance-reporting.php:319
+#: views/js-templates/attendance-new.php:41
+#: views/js-templates/attendance-new.php:70
+#: views/tab-employee-single-status.php:555
+msgid "Present"
+msgstr "Presente"
+
+#: views/attendance-reporting.php:284 views/attendance-reporting.php:353
+msgid "Early Leave"
+msgstr "Salir temprano"
+
+#: views/attendance-reporting.php:294 views/attendance-reporting.php:330
+#: views/tab-employee-single-status.php:271
+#: views/tab-employee-single-status.php:515
+msgid "Holiday"
+msgstr "Vacaciones / Festivos"
+
+#: views/attendance-reporting.php:325
+msgid "Work Days"
+msgstr "Días de trabajo"
+
+#: views/attendance-reporting.php:338
+msgid "Regular"
+msgstr "Regular"
+
+#: views/attendance-reporting.php:343 views/tab-employee-single-status.php:276
+#: views/tab-employee-single-status.php:502
+msgid "Leave"
+msgstr "Permisos"
+
+#: views/attendance-single.php:9
+msgid "Attendance Record"
+msgstr "Registro de asistencia"
+
+#: views/attendance.php:3
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: views/edit-attendance.php:7 views/new-attendance.php:7
+msgid "Date: "
+msgstr "Fecha: "
+
+#: views/edit-attendance.php:10 views/new-attendance.php:10
+msgid "Set all present"
+msgstr "Establecer todos los presentes"
+
+#: views/edit-attendance.php:11 views/new-attendance.php:11
+msgid "Set all absent"
+msgstr "Establecer todos los ausentes"
+
+#: views/edit-attendance.php:15 views/manage-shifts.php:76
+#: views/new-attendance.php:15
+msgid "Search"
+msgstr "Buscar"
+
+#: views/edit-attendance.php:23 views/js-templates/attendance-new.php:17
+#: views/new-attendance.php:23
+msgid "Employee ID"
+msgstr "ID de empleado"
+
+#: views/import.php:10
+msgid "Type"
+msgstr "Tipo"
+
+#: views/import.php:20
+msgid "Select File"
+msgstr "Seleccione Archivo"
+
+#: views/import.php:50
+msgid "File type not supported"
+msgstr "Tipo de archivo no admitido"
+
+#: views/js-templates/attendance-new.php:7
+msgid "Check All as Present &nbsp;"
+msgstr "Compruebe todos como Presentes &nbsp;"
+
+#: views/js-templates/attendance-new.php:8
+msgid "Check All as Absent &nbsp;"
+msgstr "Compruebe todos como Ausente &nbsp;"
+
+#: views/js-templates/attendance-new.php:20
+msgid "Check In"
+msgstr "Entrada"
+
+#: views/js-templates/attendance-new.php:21
+msgid "Check Out"
+msgstr "Salida"
+
+#: views/js-templates/attendance-new.php:22
+msgid "Working Time"
+msgstr "Tiempo de trabajo"
+
+#: views/manage-shifts.php:2
+msgid "Manage Shifts"
+msgstr "Administrar cambios"
+
+#: views/manage-shifts.php:6
+msgid "<p>Shift support is currently disabled.</p>"
+msgstr "<p>soporte de desplazamiento está actualmente desactivada.</p>"
+
+#: views/manage-shifts.php:8
+msgid "To enable please go to <a href=\"%s\">Shift Settings</a>"
+msgstr "Para activar vaya a <a href=\"%s\">Ajustes de cambio</a>"
+
+#: views/manage-shifts.php:14
+msgid "Saved Changes"
+msgstr "Cambios guardados"
+
+#: views/manage-shifts.php:20
+msgid "Shifts copied to next week successfully"
+msgstr "Cambia a la siguiente semana copiado correctamente"
+
+#: views/manage-shifts.php:30
+msgid "Shift List"
+msgstr "Lista de cambio"
+
+#: views/manage-shifts.php:36
+msgid "Shift Title"
+msgstr "Título de cambio"
+
+#: views/manage-shifts.php:36
+msgid "Done"
+msgstr "Hecho"
+
+#: views/manage-shifts.php:40
+msgid "Start"
+msgstr "Inicio"
+
+#: views/manage-shifts.php:41
+msgid "End"
+msgstr "Final"
+
+#: views/manage-shifts.php:43
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: views/manage-shifts.php:58
+msgid "New Shift"
+msgstr "Nuevo turno"
+
+#: views/manage-shifts.php:66
+msgid "Assign Shifts"
+msgstr "Asignar turnos"
+
+#: views/manage-shifts.php:70
+msgid "Bulk Action"
+msgstr "Acción a granel"
+
+#: views/manage-shifts.php:71
+msgid "Delete Shifts"
+msgstr "Eliminar turnos"
+
+#: views/manage-shifts.php:73
+msgid "Apply"
+msgstr "Aplicar"
+
+#: views/manage-shifts.php:77
+msgid "Prev"
+msgstr "Anterior"
+
+#: views/manage-shifts.php:77
+msgid "Next"
+msgstr "Siguiente"
+
+#: views/manage-shifts.php:88
+msgid "Monday"
+msgstr "Lunes"
+
+#: views/manage-shifts.php:93
+msgid "Tuesday"
+msgstr "Martes"
+
+#: views/manage-shifts.php:98
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: views/manage-shifts.php:103
+msgid "Thursday"
+msgstr "Jueves"
+
+#: views/manage-shifts.php:108
+msgid "Friday"
+msgstr "Viernes"
+
+#: views/manage-shifts.php:113
+msgid "Saturday"
+msgstr "Sábado"
+
+#: views/manage-shifts.php:118
+msgid "Sunday"
+msgstr "Domingo"
+
+#: views/new-attendance.php:63
+msgid "Save"
+msgstr "Domingo"
+
+#: views/tab-employee-single-status.php:241
+msgid "Early Entry"
+msgstr "Entrada Temprana"
+
+#: views/tab-employee-single-status.php:256
+#: views/tab-employee-single-status.php:564
+msgid "Early Left"
+msgstr "Salida Temprana"
+
+#: views/tab-employee-single-status.php:261
+#: views/tab-employee-single-status.php:567
+msgid "Extra Time"
+msgstr "Tiempo Extra"
+
+#: views/tab-employee-single-status.php:379
+msgid " Date :"
+msgstr " Fecha :"
+
+#: views/tab-employee-single-status.php:440
+msgid "Print Summary"
+msgstr "Imprimir resumen"
+
+#: views/tab-employee-single-status.php:448
+msgid "Total Work Time"
+msgstr "Tiempo total de trabajo"
+
+#: views/tab-employee-single-status.php:449
+msgid "Average Work Time"
+msgstr "Tiempo promedio de trabajo"
+
+#: views/tab-employee-single-status.php:452
+msgid "Total Working Shifts"
+msgstr "Los turnos de trabajo total"
+
+#: views/tab-employee-single-status.php:452
+msgid "Total Working Days"
+msgstr "Total de días laborables"
+
+#: views/tab-employee-single-status.php:457
+msgid "<li>Average Checkin</li>"
+msgstr "<li>Promedio de Registros</li>"
+
+#: views/tab-employee-single-status.php:458
+msgid "<li>Average Checkout</li>"
+msgstr "<li>Promedio de Salidas</li>"
+
+#: views/tab-employee-single-status.php:461
+msgid "Total Leave"
+msgstr "Total de licencias y Permisos"
+
+#: views/tab-employee-single-status.php:462
+msgid "Total Holiday"
+msgstr "Total de vacaciones / festivos"
+
+#: views/tab-employee-single-status.php:463
+msgid "Total Present"
+msgstr "Total Presente"
+
+#: views/tab-employee-single-status.php:464
+msgid "Total Absent"
+msgstr "Total Ausente"
+
+#: views/tab-employee-single-status.php:465
+msgid "Total Late"
+msgstr "Total Tarde"
+
+#: views/tab-employee-single-status.php:466
+msgid "Total Early Left"
+msgstr "Total Temprano"
+
+#: views/tab-employee-single-status.php:478
+msgid "<th>Shift</th>"
+msgstr "<th>Turno </th>"
+
+#: views/tab-employee-single-status.php:484
+msgid "Time Woked"
+msgstr "Tiempo Trabajado"
+
+#: views/tab-employee-single-status.php:485
+msgid "Comment"
+msgstr "Comentario"
+
+#: views/tab-employee-single-status.php:528
+msgid "Error"
+msgstr "Error"
+
+#: views/tab-employee-single-status.php:569
+msgid "Normal"
+msgstr "Normal"
+
+#: views/widget-employee-self-service.php:24
+msgid "Shift Time"
+msgstr "Tiempo del Turno"
+
+#: views/widget-employee-self-service.php:32
+msgid "Server Time"
+msgstr "Tiempo del Servidor"
+
+#. Plugin Name of the plugin/theme
+msgid "WP ERP - Attendance Management"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wperp.com/downloads/attendance"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Employee Attendance Add-On for WP ERP"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wedevs.com"
+msgstr ""
